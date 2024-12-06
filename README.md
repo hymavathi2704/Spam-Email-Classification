@@ -1,6 +1,6 @@
 
 # Spam Email Classification using NLP and Machine Learning
-
+[Live Link ](https://spam-email-classification-by-hymavathi.streamlit.app/)
  This project focuses on building a machine learning model to classify emails as either "spam" or "ham" (non-spam) using Natural Language Processing (NLP) techniques and Python. The model processes email data from the widely used spam.csv dataset and applies text preprocessing and feature extraction techniques to train a robust classifier.
 
 
